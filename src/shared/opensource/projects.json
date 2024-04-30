@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnk0MDMyMjEzMTI=",
+      "name": "Movies recommender",
+      "createdAt": "2023-05-10T05:13:34Z",
+      "url": "https://github.com/taragam21/site_film_recommandation",
+      "description": "L'objectif principal était de construire un système de recommandation basé sur le filtrage collaboratif et le filtrage basé sur le contenu. Pour réaliser ce projet, la pile MERN et Jupyter ont été utilisés.",
+      "isFork": false,
+      "forkCount": 10,
+      "stargazers": {
+        "totalCount": 17
+      },
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter",
+          "iconifyClass": "logos:jupyter"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos:react"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "vscode-icons:file-type-mongo"
+        },
+        {
+          "name": "Express-js",
+          "iconifyClass": "simple-icons:express"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzOTM4MjkwMDA=",
+      "name": "Ontologie et extraction de connaissances",
+      "createdAt": "2023-06-08T01:39:25Z",
+      "url": "https://github.com/taragam21/Ontology-and-knowledge-extraction",
+      "description": "Ce projet utilise des méthodes basées sur l'apprentissage automatique et les ontologies pour classifier des images de différentes classes d'animaux.",
+      "isFork": false,
+      "forkCount": 2,
+      "stargazers": {
+        "totalCount": 3
+      },
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "TensorFlow",
+          "iconifyClass": "logos:tensorflow"
+        },
+        {
+          "name": "SparQL",
+          "iconifyClass": "vscode-icons:file-type-sparql"
+        },
+        {
+          "name": "OWL",
+          "iconifyClass": "twemoji:owl"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzOTM4MjkwMDA=",
+      "name": "Sim Power",
+      "createdAt": "2022-08-08T01:39:25Z",
+      "url": "https://github.com/adri326/ap4b-project",
+      "description": "Une application de simulation conçue pour fournir de l'électricité dans une ville et pour équilibrer la production et la consommation, réduisant ainsi les coûts pour la population et diminuant la pollution.",
+      "isFork": false,
+      "forkCount": 4,
+      "stargazers": {
+        "totalCount": 33
+      },
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzODQwODM3MjQ=",
+      "name": "Sensor Handler",
+      "createdAt": "2021-07-08T10:14:52Z",
+      "url": "https://github.com/Aldarme/TPAP4A/tree/GAMBARA_Tarabai_TPLS/Rendu_Final",
+      "description": "Un gestionnaire de capteurs virtuels (température, humidité, pression, lumière), un simulateur d'environnement IoT qui génère et stocke les données des capteurs dans les fichiers correspondants.",
+      "isFork": false,
+      "forkCount": 7,
+      "stargazers": {
+        "totalCount": 12
+      },
+      "languages": [
+        {
+          "name": "C++",
+          "iconifyClass": "skill-icons:cpp"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnk0MDE1NTM5MTk=",
+      "name": "Chatroom",
+      "createdAt": "2020-06-31T02:55:27Z",
+      "url": "https://github.com/taragam21/Cloud_Chatroom",
+      "description": "Une plateforme de messagerie instantanée déployée sur le cloud en utilisant Google AppEngine.",
+      "isFork": false,
+      "forkCount": 1,
+      "stargazers": {
+        "totalCount": 11
+      },
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGm6i-w",
+      "name": "Mon Portfolio",
+      "createdAt": "2024-04-01T02:32:32Z",
+      "url": "https://github.com/taragam21/myPortfolio",
+      "description": "Un site portfolio, élégant et efficace pour présenter mes travaux professionnels, mes projets personnels, et mes compétences.",
+      "isFork": false,
+      "forkCount": 0,
+      "stargazers": {
+        "totalCount": 5
+      },
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    }
+  ]
+}

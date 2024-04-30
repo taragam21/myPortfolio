@@ -1,0 +1,23 @@
+.contact-heading-img-div {
+  /* Centrer l'image dans son conteneur */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* Taille du conteneur */
+  width: 100%; /* ou une largeur spécifique si nécessaire */
+  height: auto; /* ou une hauteur spécifique si nécessaire */
+}
+
+.contact-heading-img-div img {
+  /* Redimensionner l'image */
+  width: 70%; /* ajustez selon vos besoins */
+  height: auto; /* maintenir l'aspect ratio */
+  border-radius: 10px; /* optionnel: pour arrondir les coins */
+}
+
+@media (max-width: 768px) {
+  .contact-heading-img-div {
+    margin-bottom: 40px;
+  }
+}
