@@ -14,4 +14,4 @@ Thanks to <a href="https://github.com/KasRoudra/supremeFolio">KasRoudra </a> for
 
 ### [+] Find me on
 
-<a href="mailto:taragam7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-taragam7@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:tarabai.gambara@utbm.fr" target="_blank"><img src="https://img.shields.io/badge/Email-tarabai.gambara@utbm.fr-blue?style=for-the-badge&logo=gmail"></a>

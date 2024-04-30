@@ -79,7 +79,7 @@ const greeting = {
   subTitle:
     "Passionné par les sciences des données et l'intelligence artificiel, qui s'efforce toujours de travailler sur des produits complets qui développent des systèmes innovants et techniques durables et évolutifs afin de créer un impact.",
   resumeLink:
-    "https://utbm-my.sharepoint.com/:b:/g/personal/tarabai_gambara_utbm_fr/EQBiJHzp9PNPgAocgDa2npQBInQ6YNKtnpi26KsLcuWYyQ?e=0KP41i",
+    "https://utbm-my.sharepoint.com/:b:/g/personal/tarabai_gambara_utbm_fr/EfeSfH3tkQ5IozMnn3gsyDsBiCwF_TSC8AQqGugIMP7axw?e=EdSpdw",
   portfolio_repository: "https://www.linkedin.com/in/taragam/", //star-me-on-github button
   githubProfile: "https://github.com/taragam21" //more projects button
 };
@@ -114,7 +114,7 @@ const socialMediaLinks = [
   //  },
   {
     name: "Gmail",
-    link: "mailto:taragam7@gmail.com",
+    link: "mailto:tarabai.gambara@utbm.fr",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836" // Reference https://simpleicons.org/?q=gmail
   },
