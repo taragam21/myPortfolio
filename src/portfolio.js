@@ -113,7 +113,7 @@ const socialMediaLinks = [
   //    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   //  },
   {
-    name: "Gmail",
+    name: "Outlook",
     link: "mailto:tarabai.gambara@utbm.fr",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836" // Reference https://simpleicons.org/?q=gmail
@@ -129,12 +129,6 @@ const socialMediaLinks = [
     link: "https://www.linkedin.com/in/taragam/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2" // Reference https://simpleicons.org/?q=facebook
-  },
-  {
-    name: "Telephone",
-    link: "tel:0783710483",
-    fontAwesomeIcon: "fa-whatsapp", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-    backgroundColor: "#008100" // Reference https://simpleicons.org/?q=facebook
   }
 ];
 
@@ -241,8 +235,8 @@ const skills = {
       title: "Développement Full Stack",
       imageName: "AppDevelopImg",
       skills: [
-        "⚡ Creation des site web complet et réactif avec diverses technologies et langages.",
-        "⚡ Développement d'application backend avec PHP, Flask et Java.",
+        "⚡ Développement d'application backend avec Java, Flask et PHP.",
+        "⚡ Creation des site web complet et dynamique avec diverses technologies et langages.",
         "⚡ Développement frontend avec JQuery, HTML, CSS, CodeIgniter et Bootstrap.",
         "⚡ Integration des technologies et outils diverses tel que Springboot, Maven, Github, etc."
       ],
@@ -634,6 +628,10 @@ const contactPageData = {
   phoneSection: {
     title: "Téléphone",
     subtitle: "0783710483"
+  },
+  mobilitySection: {
+    title: "Mobilité",
+    subtitle: "Toute la France"
   }
 };
 

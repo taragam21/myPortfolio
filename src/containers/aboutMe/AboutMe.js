@@ -83,7 +83,11 @@ const AboutMe = (props) => {
               <div className="opp-div">
                 <Fade left duration={2000}>
                   <span className="desc-prof" style={{ color: theme.text }}>
-                    Open for opportunities: {UserData.data.hireable}
+                    Open for opportunities: <b>{UserData.data.hireable}</b>
+                  </span>
+                  <br/>
+                  <span className="desc-prof" style={{ color: theme.text }}>
+                    Mobilité: <b>{UserData.data.mobility}</b>
                   </span>
                 </Fade>
               </div>
