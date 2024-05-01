@@ -77,7 +77,7 @@ const greeting = {
   logo_path: "kas.png",
   nickname: "Ingénieur Data & IA",
   subTitle:
-    "Passionné par les sciences des données et l'intelligence artificiel, qui s'efforce toujours de travailler sur des produits complets qui développent des systèmes innovants et techniques durables et évolutifs afin de créer un impact.",
+    "Passionné par les sciences des données et l'intelligence artificiel, qui s'efforce toujours de travailler sur des produits complets qui développent des systèmes innovants, techniques durables et évolutifs afin de créer un impact.",
   resumeLink:
     "https://utbm-my.sharepoint.com/:b:/g/personal/tarabai_gambara_utbm_fr/EfeSfH3tkQ5IozMnn3gsyDsBiCwF_TSC8AQqGugIMP7axw?e=EdSpdw",
   portfolio_repository: "https://www.linkedin.com/in/taragam/", //star-me-on-github button
