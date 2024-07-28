@@ -79,7 +79,7 @@ const greeting = {
   subTitle:
     "Passionné par les sciences des données et l'intelligence artificiel, qui s'efforce toujours de travailler sur des produits complets qui développent des systèmes innovants, techniques durables et évolutifs afin de créer un impact.",
   resumeLink:
-    "https://utbm-my.sharepoint.com/:b:/g/personal/tarabai_gambara_utbm_fr/EfeSfH3tkQ5IozMnn3gsyDsBiCwF_TSC8AQqGugIMP7axw?e=EdSpdw",
+    "https://utbm-my.sharepoint.com/:b:/g/personal/tarabai_gambara_utbm_fr/EdWfteQna09MrftP1hZy6rABCFeRpbJXqnZVA3XS0d_yeA?e=nY7zFA",
   portfolio_repository: "https://www.linkedin.com/in/taragam/", //star-me-on-github button
   githubProfile: "https://github.com/taragam21" //more projects button
 };
@@ -393,6 +393,10 @@ const techStack = {
       progressPercentage: "70%"
     },
     {
+      Stack: "PowerApps",
+      progressPercentage: "80%"
+    },
+    {
       Stack: "JavaScript/TypeScript",
       progressPercentage: "80%"
     },
@@ -475,7 +479,7 @@ const degrees = {
       subtitle: "Licence en Informatique",
       logo_path: "ndere.png",
       alt_name: "NDERE",
-      duration: "2018 - 2021",
+      duration: "2017 - 2020",
       descriptions: [
         "Cette formation combine une solide base en mathématiques et statistiques avec des compétences avancées en informatique. J'ai développé une expertise en algorithmique, programmation en Python, Java, C++ et SQL, et en structures de données. La licence m'a également permis de maîtriser l'analyse numérique et la modélisation mathématique, tout en renforçant ma capacité à résoudre des problèmes de manière analytique et innovante, préparant ainsi le terrain pour aborder des défis techniques complexes."
       ],
@@ -553,6 +557,33 @@ const experience = {
   header_image_path: "experience.svg",
   sections: [
     {
+      title: "Professionnel",
+      experiences: [
+        {
+          title: "Data Scientist et ingénieur Intelligence Artificiel",
+          company: "Actemium",
+          company_url: "https://www.actemium.fr/",
+          logo_path: "actemium.png",
+          duration: "Juillet 2024 - Présent ",
+          location: "Dole, France",
+          description:
+            "J’intervient sur divers projets allant de l’apprentissage profonde sur du 3D, la manipulation de maquettes massive et visualisation  jusqu’au développement des applications web complètes.",
+          color: "#0071C5"
+        },
+        {
+          title: "Développeur web",
+          company: "LIWA SARL",
+          company_url: "",
+          logo_path: "liwa.png",
+          duration: "Septmbre 2020 – Octobre 2021",
+          location: "Cameroun",
+          description:
+            "Une application pour le suivi des activités de l'entreprise spécialisée dans les travaux publiques.",
+          color: "#0879bf"
+        }
+      ]
+    },
+    {
       title: "Extrascolaires",
       experiences: [
         {
@@ -576,7 +607,7 @@ const experience = {
           company: "Actemium",
           company_url: "https://www.actemium.fr/",
           logo_path: "actemium.png",
-          duration: "Février 2024 - Présent",
+          duration: "Février 2024 - Juillet 2024",
           location: "Dole, France",
           description:
             "Afin de classifier des nuages de point d’une maquette 3D et de remplir automatiquement ces classifications, je suis chargé d’entrainer des algorithmes d’IA principalement des reseaux de neuronnes à l’aide des technologies et environnement de développement dédiés ensuite, déployer ces algorithmes. De plus, j'ai utilisé l'agorithme de K-Means pour optimiser la repartition d'équipement dans une zone industriel. J'ai également la charge de développer un algorithme de pathfinding en utilisant A-star pour trouver le chemin entre un équipement et une boîte de jonction. Les langages utilisé sont Python et ses libraries pour l'apprentissage et Javascript pour le K-Means et le pathfinding.",
